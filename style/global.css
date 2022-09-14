@@ -31,12 +31,6 @@ h2, h3 {
     border-width: 10px;
 }
 
-h2 {
-    border-left: var(--destak) solid;
-    padding-left: 4.5em;
-    border-width: 10px;
-}
-
 h1{ font-family: var(--font-header);
     color: var(--destak);
 }
